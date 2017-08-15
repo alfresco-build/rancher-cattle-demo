@@ -1,7 +1,7 @@
 ---
 name: Demo App
 description: >
-  testing app for catalog.
+  # testing app for catalog.
 version: v0.1
 category: Testing
 maintainer: Daniel Monteiro <daniel.monteiro@alfresco.com>
